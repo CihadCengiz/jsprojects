@@ -1,1 +1,1 @@
-Basic JavaScript Projects
+Fun JavaScript coding challenges.
