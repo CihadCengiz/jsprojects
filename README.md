@@ -1,1 +1,1 @@
-Fun JavaScript coding challenges.
+Fun JavaScript, HTML & CSS coding challenges.
